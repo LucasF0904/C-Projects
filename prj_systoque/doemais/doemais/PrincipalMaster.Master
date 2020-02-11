@@ -1,0 +1,70 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="PrincipalMaster.master.cs" Inherits="doemais.PrincipalMaster" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+    <link rel="stylesheet" type="text/css" media="all" href="css/bootstrap.min.css" />
+    <link rel="stylesheet" type="text/css" media="all" href="css/style.css"/>
+    <link rel="stylesheet" type="text/css" media="all" href="css/font-awesome.css"/>
+    <script type="text/javascript" src="js/bootstrap.min.js"></script>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <header>
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12">
+                    <strong>Usuário: </strong><asp:Label ID="txtNomeUsuario" Text="Teste" runat="server"></asp:Label>
+                </div>
+
+            </div>
+        </div>
+    </header>
+    <!-- HEADER END-->
+    <div class="navbar navbar-inverse set-radius-zero">
+        <div class="container">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <a class="navbar-brand" href="frmPrincipal.aspx">
+                    <img class="img-responsive" src="img/logo.png" />
+                </a>
+            </div>
+
+        </div>
+    </div>
+    <!-- LOGO HEADER END-->
+
+    <form id="form1" runat="server">
+    <div>
+        <section class="menu-section">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-12">
+                        <div class="navbar-collapse collapse ">
+                            <ul id="menu-top" class="nav navbar-nav navbar-right">
+                                <li><a href="frmPrincipal.aspx">Principal</a></li>
+                                <li id="menudisponiveis" runat="server"><a href="frmDisponiveis.aspx">Doações disponíveis</a></li>
+                                <li id="menudoacoes" runat="server"><a href="frmDoacao.aspx">Doações</a></li>
+                                <li>
+                                    <asp:Button OnClick="btnSair_Click" BorderColor="#0094ff" BackColor="#0094ff" ID="btnSair" runat="server" Text="Sair" />
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <asp:ContentPlaceHolder ID="corpo" runat="server">
+        </asp:ContentPlaceHolder>
+    </div>
+    </form>
+</body>
+</html>

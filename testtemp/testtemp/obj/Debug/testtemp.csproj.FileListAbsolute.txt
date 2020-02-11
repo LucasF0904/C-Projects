@@ -1,0 +1,13 @@
+C:\Users\hp\Documents\Visual Studio 2008\Projects\testtemp\testtemp\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\hp\Documents\Visual Studio 2008\Projects\testtemp\testtemp\obj\Debug\testtemp.Properties.Resources.resources
+C:\Users\hp\Documents\Visual Studio 2008\Projects\testtemp\testtemp\obj\Debug\testtemp.csproj.GenerateResource.Cache
+C:\Users\hp\Documents\Visual Studio 2008\Projects\testtemp\testtemp\bin\Debug\testtemp.exe
+C:\Users\hp\Documents\Visual Studio 2008\Projects\testtemp\testtemp\bin\Debug\testtemp.pdb
+C:\Users\hp\Documents\Visual Studio 2008\Projects\testtemp\testtemp\obj\Debug\testtemp.exe
+C:\Users\hp\Documents\Visual Studio 2008\Projects\testtemp\testtemp\obj\Debug\testtemp.pdb
+C:\Users\hp\Documents\Visual Studio 2008\Projects\testtemp\testtemp\obj\Debug\testtemp.tempreaderform.resources
+C:\Users\hp\Documents\Visual Studio 2008\Projects\testtemp\testtemp\bin\Debug\testtemp.exe.manifest
+C:\Users\hp\Documents\Visual Studio 2008\Projects\testtemp\testtemp\bin\Debug\testtemp.application
+C:\Users\hp\Documents\Visual Studio 2008\Projects\testtemp\testtemp\obj\Debug\testtemp.TrustInfo.xml
+C:\Users\hp\Documents\Visual Studio 2008\Projects\testtemp\testtemp\obj\Debug\testtemp.exe.manifest
+C:\Users\hp\Documents\Visual Studio 2008\Projects\testtemp\testtemp\obj\Debug\testtemp.application

@@ -1,0 +1,27 @@
+   System.Data.DataTable dtUser = new System.Data.DataTable();
+
+                Class_usuario user = new Class_usuario();
+                string condicao = string.Format("Email='{0}' and Cod_Autenticacao='{1}'", txtEmail.Text, txtSenha.Text); //cria o filtro de usuario e senha
+
+                dtUser = user.Pesquisar_Usuario_por(condicao); //preenche o datatable com os dados do usuario digitado
+
+                if (dtUser.Rows.Count == 1) //verifica se foi encontrado algum informação do usuario digitado
+                {
+                    user.id = int.Parse(dtUser.Rows[0][0].ToString()); //se sim carrega os dados do usario no objeto usuario
+                    user.nome = dtUser.Rows[0][1].ToString();
+                    user.email = dtUser.Rows[0][2].ToString();
+
+                    Session["perfil"] = user; //armazena o objeto usuario na sessão
+
+                    Response.Write("<script>alert('Bem vindo')</script>");
+                }
+                else
+                {
+                    Session["perfil"] = null; //caso não deixa a sessão vazia
+                    Response.Write("<script>alert('Erro')</script>");
+                }
+            }
+            catch (Exception)
+            {
+                Response.Redirect("Error.aspx");
+            }

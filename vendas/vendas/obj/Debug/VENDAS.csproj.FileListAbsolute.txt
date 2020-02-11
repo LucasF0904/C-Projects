@@ -1,0 +1,17 @@
+H:\VENDAS\VENDAS\VENDAS\bin\Debug\VENDAS.exe.config
+H:\VENDAS\VENDAS\VENDAS\bin\Debug\VENDAS.exe
+H:\VENDAS\VENDAS\VENDAS\bin\Debug\VENDAS.pdb
+H:\VENDAS\VENDAS\VENDAS\bin\Debug\DAL.dll
+H:\VENDAS\VENDAS\VENDAS\obj\Debug\VENDAS.csprojResolveAssemblyReference.cache
+H:\VENDAS\VENDAS\VENDAS\obj\Debug\VENDAS.menu.resources
+H:\VENDAS\VENDAS\VENDAS\obj\Debug\VENDAS.itens_produtos.resources
+H:\VENDAS\VENDAS\VENDAS\obj\Debug\VENDAS.Properties.Resources.resources
+H:\VENDAS\VENDAS\VENDAS\obj\Debug\VENDAS.tblProdutos.resources
+H:\VENDAS\VENDAS\VENDAS\obj\Debug\VENDAS.tblVenda.resources
+H:\VENDAS\VENDAS\VENDAS\obj\Debug\VENDAS.tblvendedor.resources
+H:\VENDAS\VENDAS\VENDAS\obj\Debug\VENDAS.csproj.GenerateResource.Cache
+H:\VENDAS\VENDAS\VENDAS\obj\Debug\VENDAS.exe
+H:\VENDAS\VENDAS\VENDAS\obj\Debug\VENDAS.pdb
+H:\POO1\2ºtrimestre\VENDAS\VENDAS\VENDAS\bin\Debug\VENDAS.exe.config
+H:\POO1\2ºtrimestre\VENDAS\VENDAS\VENDAS\obj\Debug\VENDAS.exe
+H:\POO1\2ºtrimestre\VENDAS\VENDAS\VENDAS\obj\Debug\VENDAS.pdb

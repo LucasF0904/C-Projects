@@ -1,0 +1,15 @@
+H:\POO1\Provinha\Provinha\Provinha\bin\Provinha.dll.config
+H:\POO1\Provinha\Provinha\Provinha\bin\Provinha.dll
+H:\POO1\Provinha\Provinha\Provinha\bin\Provinha.pdb
+H:\POO1\Provinha\Provinha\Provinha\bin\DAL.dll
+H:\POO1\Provinha\Provinha\Provinha\obj\Debug\Provinha.csprojResolveAssemblyReference.cache
+H:\POO1\Provinha\Provinha\Provinha\obj\Debug\Provinha.dll
+H:\POO1\Provinha\Provinha\Provinha\obj\Debug\Provinha.pdb
+C:\Users\lays\Desktop\Nova pasta (2)\Nova pasta (2)\provinha\Provinha\Provinha\bin\Provinha.dll.config
+C:\Users\lays\Desktop\Nova pasta (2)\Nova pasta (2)\provinha\Provinha\Provinha\bin\Provinha.dll
+C:\Users\lays\Desktop\Nova pasta (2)\Nova pasta (2)\provinha\Provinha\Provinha\bin\Provinha.pdb
+C:\Users\lays\Desktop\Nova pasta (2)\Nova pasta (2)\provinha\Provinha\Provinha\bin\Class_DAL_Mysql.dll
+C:\Users\lays\Desktop\Nova pasta (2)\Nova pasta (2)\provinha\Provinha\Provinha\bin\Class_DAL_Mysql.pdb
+C:\Users\lays\Desktop\Nova pasta (2)\Nova pasta (2)\provinha\Provinha\Provinha\obj\Debug\Provinha.csprojResolveAssemblyReference.cache
+C:\Users\lays\Desktop\Nova pasta (2)\Nova pasta (2)\provinha\Provinha\Provinha\obj\Debug\Provinha.dll
+C:\Users\lays\Desktop\Nova pasta (2)\Nova pasta (2)\provinha\Provinha\Provinha\obj\Debug\Provinha.pdb

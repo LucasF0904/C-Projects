@@ -1,0 +1,8 @@
+H:\visual studio 2013\Projects\prj_3C1\prj_3C1\bin\prj_3C1.dll.config
+H:\visual studio 2013\Projects\prj_3C1\prj_3C1\bin\prj_3C1.dll
+H:\visual studio 2013\Projects\prj_3C1\prj_3C1\bin\prj_3C1.pdb
+H:\visual studio 2013\Projects\prj_3C1\prj_3C1\bin\DAL.dll
+H:\visual studio 2013\Projects\prj_3C1\prj_3C1\bin\DAL.pdb
+H:\visual studio 2013\Projects\prj_3C1\prj_3C1\obj\Debug\prj_3C1.csprojResolveAssemblyReference.cache
+H:\visual studio 2013\Projects\prj_3C1\prj_3C1\obj\Debug\prj_3C1.dll
+H:\visual studio 2013\Projects\prj_3C1\prj_3C1\obj\Debug\prj_3C1.pdb

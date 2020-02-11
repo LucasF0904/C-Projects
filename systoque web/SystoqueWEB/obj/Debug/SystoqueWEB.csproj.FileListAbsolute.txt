@@ -1,0 +1,15 @@
+H:\POO\SystoqueWEB\SystoqueWEB\bin\SystoqueWEB.dll.config
+H:\POO\SystoqueWEB\SystoqueWEB\bin\SystoqueWEB.dll
+H:\POO\SystoqueWEB\SystoqueWEB\bin\SystoqueWEB.pdb
+H:\POO\SystoqueWEB\SystoqueWEB\bin\DAL.dll
+H:\POO\SystoqueWEB\SystoqueWEB\bin\DAL.pdb
+H:\POO\SystoqueWEB\SystoqueWEB\obj\Debug\SystoqueWEB.csprojResolveAssemblyReference.cache
+H:\POO\SystoqueWEB\SystoqueWEB\obj\Debug\SystoqueWEB.dll
+H:\POO\SystoqueWEB\SystoqueWEB\obj\Debug\SystoqueWEB.pdb
+H:\POO1\systoque web\SystoqueWEB\obj\Debug\SystoqueWEB.csprojResolveAssemblyReference.cache
+H:\POO1\systoque web\SystoqueWEB\obj\Debug\SystoqueWEB.dll
+H:\POO1\systoque web\SystoqueWEB\obj\Debug\SystoqueWEB.pdb
+H:\POO1\systoque web\SystoqueWEB\bin\SystoqueWEB.dll.config
+H:\POO1\systoque web\SystoqueWEB\bin\SystoqueWEB.dll
+H:\POO1\systoque web\SystoqueWEB\bin\SystoqueWEB.pdb
+H:\POO1\systoque web\SystoqueWEB\bin\DAL.dll

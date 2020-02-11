@@ -1,0 +1,7 @@
+H:\POO1\prj_venda2\prj_venda2\bin\prj_venda2.dll.config
+H:\POO1\prj_venda2\prj_venda2\bin\prj_venda2.dll
+H:\POO1\prj_venda2\prj_venda2\bin\prj_venda2.pdb
+H:\POO1\prj_venda2\prj_venda2\bin\DAL.dll
+H:\POO1\prj_venda2\prj_venda2\obj\Debug\prj_venda2.csprojResolveAssemblyReference.cache
+H:\POO1\prj_venda2\prj_venda2\obj\Debug\prj_venda2.dll
+H:\POO1\prj_venda2\prj_venda2\obj\Debug\prj_venda2.pdb

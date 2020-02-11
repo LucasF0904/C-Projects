@@ -1,0 +1,7 @@
+H:\POO\3 Trimestre\SistemaControleDieta28\SistemaControleDieta28\bin\SistemaControleDieta28.dll.config
+H:\POO\3 Trimestre\SistemaControleDieta28\SistemaControleDieta28\bin\SistemaControleDieta28.dll
+H:\POO\3 Trimestre\SistemaControleDieta28\SistemaControleDieta28\bin\SistemaControleDieta28.pdb
+H:\POO\3 Trimestre\SistemaControleDieta28\SistemaControleDieta28\bin\DAL.dll
+H:\POO\3 Trimestre\SistemaControleDieta28\SistemaControleDieta28\obj\Debug\SistemaControleDieta28.csprojResolveAssemblyReference.cache
+H:\POO\3 Trimestre\SistemaControleDieta28\SistemaControleDieta28\obj\Debug\SistemaControleDieta28.dll
+H:\POO\3 Trimestre\SistemaControleDieta28\SistemaControleDieta28\obj\Debug\SistemaControleDieta28.pdb

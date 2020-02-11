@@ -1,0 +1,5 @@
+C:\Users\Mateus\Desktop\Escola\DAL\DAL\bin\Debug\DAL.dll
+C:\Users\Mateus\Desktop\Escola\DAL\DAL\bin\Debug\DAL.pdb
+C:\Users\Mateus\Desktop\Escola\DAL\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\Mateus\Desktop\Escola\DAL\DAL\obj\Debug\DAL.dll
+C:\Users\Mateus\Desktop\Escola\DAL\DAL\obj\Debug\DAL.pdb

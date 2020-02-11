@@ -1,0 +1,16 @@
+H:\POO1\Agenda2\AgendaWorkP1\AgendaWorkP1\bin\Debug\AgendaWorkP1.exe.config
+H:\POO1\Agenda2\AgendaWorkP1\AgendaWorkP1\bin\Debug\AgendaWorkP1.exe
+H:\POO1\Agenda2\AgendaWorkP1\AgendaWorkP1\bin\Debug\AgendaWorkP1.pdb
+H:\POO1\Agenda2\AgendaWorkP1\AgendaWorkP1\obj\Debug\AgendaWorkP1.csprojResolveAssemblyReference.cache
+H:\POO1\Agenda2\AgendaWorkP1\AgendaWorkP1\obj\Debug\AgendaWorkP1.Form1.resources
+H:\POO1\Agenda2\AgendaWorkP1\AgendaWorkP1\obj\Debug\AgendaWorkP1.Frm_Agenda.resources
+H:\POO1\Agenda2\AgendaWorkP1\AgendaWorkP1\obj\Debug\AgendaWorkP1.Frm_Atendente.resources
+H:\POO1\Agenda2\AgendaWorkP1\AgendaWorkP1\obj\Debug\AgendaWorkP1.Frm_Medico.resources
+H:\POO1\Agenda2\AgendaWorkP1\AgendaWorkP1\obj\Debug\AgendaWorkP1.Frm_Paciente.resources
+H:\POO1\Agenda2\AgendaWorkP1\AgendaWorkP1\obj\Debug\AgendaWorkP1.Properties.Resources.resources
+H:\POO1\Agenda2\AgendaWorkP1\AgendaWorkP1\obj\Debug\AgendaWorkP1.csproj.GenerateResource.Cache
+H:\POO1\Agenda2\AgendaWorkP1\AgendaWorkP1\obj\Debug\AgendaWorkP1.exe
+H:\POO1\Agenda2\AgendaWorkP1\AgendaWorkP1\obj\Debug\AgendaWorkP1.pdb
+H:\POO1\1ºtri\Agenda2\AgendaWorkP1\AgendaWorkP1\bin\Debug\AgendaWorkP1.exe.config
+H:\POO1\1ºtri\Agenda2\AgendaWorkP1\AgendaWorkP1\obj\Debug\AgendaWorkP1.exe
+H:\POO1\1ºtri\Agenda2\AgendaWorkP1\AgendaWorkP1\obj\Debug\AgendaWorkP1.pdb

@@ -1,0 +1,7 @@
+H:\POO\2 Trimestre\Projeto\Projeto\bin\Projeto.dll.config
+H:\POO\2 Trimestre\Projeto\Projeto\bin\Projeto.dll
+H:\POO\2 Trimestre\Projeto\Projeto\bin\Projeto.pdb
+H:\POO\2 Trimestre\Projeto\Projeto\bin\DAL.dll
+H:\POO\2 Trimestre\Projeto\Projeto\obj\Debug\Projeto.csprojResolveAssemblyReference.cache
+H:\POO\2 Trimestre\Projeto\Projeto\obj\Debug\Projeto.dll
+H:\POO\2 Trimestre\Projeto\Projeto\obj\Debug\Projeto.pdb

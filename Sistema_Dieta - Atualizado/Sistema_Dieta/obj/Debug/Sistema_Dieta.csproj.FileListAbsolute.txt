@@ -1,0 +1,26 @@
+H:\3 trimestre\Sistema_Dieta\Sistema_Dieta\obj\Debug\RdlCompile.cache
+H:\3 trimestre\Sistema_Dieta\Sistema_Dieta\obj\Debug\RdlCompile.compiled
+H:\3 trimestre\Sistema_Dieta\Sistema_Dieta\bin\Sistema_Dieta.dll.config
+H:\3 trimestre\Sistema_Dieta\Sistema_Dieta\bin\Sistema_Dieta.dll
+H:\3 trimestre\Sistema_Dieta\Sistema_Dieta\bin\Sistema_Dieta.pdb
+H:\3 trimestre\Sistema_Dieta\Sistema_Dieta\bin\DAL.dll
+H:\3 trimestre\Sistema_Dieta\Sistema_Dieta\obj\Debug\Sistema_Dieta.dll
+H:\3 trimestre\Sistema_Dieta\Sistema_Dieta\obj\Debug\Sistema_Dieta.pdb
+H:\3 trimestre\Sistema_Dieta - Cópia\Sistema_Dieta\bin\Sistema_Dieta.dll.config
+H:\3 trimestre\Sistema_Dieta - Cópia\Sistema_Dieta\bin\Sistema_Dieta.dll
+H:\3 trimestre\Sistema_Dieta - Cópia\Sistema_Dieta\bin\Sistema_Dieta.pdb
+H:\3 trimestre\Sistema_Dieta - Cópia\Sistema_Dieta\bin\DAL.dll
+H:\3 trimestre\Sistema_Dieta - Cópia\Sistema_Dieta\obj\Debug\RdlCompile.cache
+H:\3 trimestre\Sistema_Dieta - Cópia\Sistema_Dieta\obj\Debug\RdlCompile.compiled
+H:\3 trimestre\Sistema_Dieta - Cópia\Sistema_Dieta\obj\Debug\Sistema_Dieta.dll
+H:\3 trimestre\Sistema_Dieta - Cópia\Sistema_Dieta\obj\Debug\Sistema_Dieta.pdb
+H:\3 trimestre\Sistema_Dieta - Cópia\Sistema_Dieta\obj\Debug\Sistema_Dieta.csprojResolveAssemblyReference.cache
+H:\3 trimestre\Sistema_Dieta - Atualizado\Sistema_Dieta\bin\Sistema_Dieta.dll.config
+H:\3 trimestre\Sistema_Dieta - Atualizado\Sistema_Dieta\bin\Sistema_Dieta.dll
+H:\3 trimestre\Sistema_Dieta - Atualizado\Sistema_Dieta\bin\Sistema_Dieta.pdb
+H:\3 trimestre\Sistema_Dieta - Atualizado\Sistema_Dieta\bin\DAL.dll
+H:\3 trimestre\Sistema_Dieta - Atualizado\Sistema_Dieta\obj\Debug\RdlCompile.cache
+H:\3 trimestre\Sistema_Dieta - Atualizado\Sistema_Dieta\obj\Debug\RdlCompile.compiled
+H:\3 trimestre\Sistema_Dieta - Atualizado\Sistema_Dieta\obj\Debug\Sistema_Dieta.dll
+H:\3 trimestre\Sistema_Dieta - Atualizado\Sistema_Dieta\obj\Debug\Sistema_Dieta.pdb
+H:\3 trimestre\Sistema_Dieta - Atualizado\Sistema_Dieta\obj\Debug\Sistema_Dieta.csprojResolveAssemblyReference.cache

@@ -1,0 +1,17 @@
+H:\visual studio 2013\Projects\prj_systoque\prj_systoque\bin\Debug\prj_systoque.exe.config
+H:\Projects\prj_systoque\prj_systoque\bin\Debug\prj_systoque.exe.config
+H:\Projects\prj_systoque\prj_systoque\obj\Debug\prj_systoque.csprojResolveAssemblyReference.cache
+H:\Projects\prj_systoque\prj_systoque\obj\Debug\prj_systoque.Form1.resources
+H:\Projects\prj_systoque\prj_systoque\obj\Debug\prj_systoque.FRM_CRUD_Vendedor.resources
+H:\Projects\prj_systoque\prj_systoque\obj\Debug\prj_systoque.Properties.Resources.resources
+H:\Projects\prj_systoque\prj_systoque\obj\Debug\prj_systoque.csproj.GenerateResource.Cache
+H:\Projects\prj_systoque\prj_systoque\bin\Debug\prj_systoque.exe
+H:\Projects\prj_systoque\prj_systoque\bin\Debug\prj_systoque.pdb
+H:\Projects\prj_systoque\prj_systoque\bin\Debug\DAL.dll
+H:\Projects\prj_systoque\prj_systoque\bin\Debug\DAL.pdb
+H:\Projects\prj_systoque\prj_systoque\obj\Debug\prj_systoque.exe
+H:\Projects\prj_systoque\prj_systoque\obj\Debug\prj_systoque.pdb
+H:\Projects\prj_systoque\prj_systoque\obj\Debug\prj_systoque.FRM_Venda_Pedidos.resources
+C:\Users\lays\Documents\Estudos\3°Ano\POO\prj_systoque\prj_systoque\bin\Debug\prj_systoque.exe.config
+C:\Users\lays\Documents\Estudos\3°Ano\POO\prj_systoque\prj_systoque\obj\Debug\prj_systoque.exe
+C:\Users\lays\Documents\Estudos\3°Ano\POO\prj_systoque\prj_systoque\obj\Debug\prj_systoque.pdb

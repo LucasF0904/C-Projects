@@ -1,0 +1,44 @@
+H:\visual studio 2013\Projects\revisao3B1\revisao3B1\bin\revisao3B1.dll.config
+H:\visual studio 2013\Projects\revisao3B1\revisao3B1\bin\revisao3B1.dll
+H:\visual studio 2013\Projects\revisao3B1\revisao3B1\bin\revisao3B1.pdb
+H:\visual studio 2013\Projects\revisao3B1\revisao3B1\obj\Debug\revisao3B1.csprojResolveAssemblyReference.cache
+H:\visual studio 2013\Projects\revisao3B1\revisao3B1\obj\Debug\revisao3B1.dll
+H:\visual studio 2013\Projects\revisao3B1\revisao3B1\obj\Debug\revisao3B1.pdb
+C:\Users\thiago\Documents\revisao3B1\revisao3B1\obj\Debug\revisao3B1.csprojResolveAssemblyReference.cache
+C:\Users\thiago\Documents\revisao3B1\revisao3B1\obj\Debug\revisao3B1.dll
+C:\Users\thiago\Documents\revisao3B1\revisao3B1\obj\Debug\revisao3B1.pdb
+C:\Users\thiago\Documents\revisao3B1\revisao3B1\bin\revisao3B1.dll.config
+C:\Users\thiago\Documents\revisao3B1\revisao3B1\bin\revisao3B1.dll
+C:\Users\thiago\Documents\revisao3B1\revisao3B1\bin\revisao3B1.pdb
+C:\Users\thiago\Documents\revisao3B1\revisao3B1\bin\DAL.dll
+C:\Users\thiago\Documents\revisao3B1\revisao3B1\bin\DAL.pdb
+C:\Users\thiago\Documents\revisao3B1 - Copia\revisao3B1\bin\revisao3B1.dll.config
+C:\Users\thiago\Documents\revisao3B1 - Copia\revisao3B1\bin\revisao3B1.dll
+C:\Users\thiago\Documents\revisao3B1 - Copia\revisao3B1\bin\revisao3B1.pdb
+C:\Users\thiago\Documents\revisao3B1 - Copia\revisao3B1\bin\DAL.dll
+C:\Users\thiago\Documents\revisao3B1 - Copia\revisao3B1\bin\DAL.pdb
+C:\Users\thiago\Documents\revisao3B1 - Copia\revisao3B1\obj\Debug\revisao3B1.csprojResolveAssemblyReference.cache
+C:\Users\thiago\Documents\revisao3B1 - Copia\revisao3B1\obj\Debug\revisao3B1.dll
+C:\Users\thiago\Documents\revisao3B1 - Copia\revisao3B1\obj\Debug\revisao3B1.pdb
+C:\Users\thiago\Documents\Revisao3A1_Completo_Session\revisao3B1\bin\revisao3B1.dll.config
+C:\Users\thiago\Documents\Revisao3A1_Completo_Session\revisao3B1\bin\revisao3B1.dll
+C:\Users\thiago\Documents\Revisao3A1_Completo_Session\revisao3B1\bin\revisao3B1.pdb
+C:\Users\thiago\Documents\Revisao3A1_Completo_Session\revisao3B1\bin\DAL.pdb
+C:\Users\thiago\Documents\Revisao3A1_Completo_Session\revisao3B1\obj\Debug\revisao3B1.csprojResolveAssemblyReference.cache
+C:\Users\thiago\Documents\Revisao3A1_Completo_Session\revisao3B1\obj\Debug\revisao3B1.dll
+C:\Users\thiago\Documents\Revisao3A1_Completo_Session\revisao3B1\obj\Debug\revisao3B1.pdb
+C:\Users\thiago\Documents\Revisao_Completo_Session\revisao3B1\bin\revisao3B1.dll.config
+C:\Users\thiago\Documents\Revisao_Completo_Session\revisao3B1\bin\revisao3B1.dll
+C:\Users\thiago\Documents\Revisao_Completo_Session\revisao3B1\bin\revisao3B1.pdb
+C:\Users\thiago\Documents\Revisao_Completo_Session\revisao3B1\bin\DAL.pdb
+C:\Users\thiago\Documents\Revisao_Completo_Session\revisao3B1\obj\Debug\revisao3B1.csprojResolveAssemblyReference.cache
+C:\Users\thiago\Documents\Revisao_Completo_Session\revisao3B1\obj\Debug\revisao3B1.dll
+C:\Users\thiago\Documents\Revisao_Completo_Session\revisao3B1\obj\Debug\revisao3B1.pdb
+C:\Users\lays\Desktop\Nova pasta (2)\Nova pasta (2)\comum poo\Revisao_Completo_Session\revisao3B1\bin\revisao3B1.dll.config
+C:\Users\lays\Desktop\Nova pasta (2)\Nova pasta (2)\comum poo\Revisao_Completo_Session\revisao3B1\bin\revisao3B1.dll
+C:\Users\lays\Desktop\Nova pasta (2)\Nova pasta (2)\comum poo\Revisao_Completo_Session\revisao3B1\bin\revisao3B1.pdb
+C:\Users\lays\Desktop\Nova pasta (2)\Nova pasta (2)\comum poo\Revisao_Completo_Session\revisao3B1\bin\Class_DAL_Mysql.dll
+C:\Users\lays\Desktop\Nova pasta (2)\Nova pasta (2)\comum poo\Revisao_Completo_Session\revisao3B1\bin\Class_DAL_Mysql.pdb
+C:\Users\lays\Desktop\Nova pasta (2)\Nova pasta (2)\comum poo\Revisao_Completo_Session\revisao3B1\obj\Debug\revisao3B1.csprojResolveAssemblyReference.cache
+C:\Users\lays\Desktop\Nova pasta (2)\Nova pasta (2)\comum poo\Revisao_Completo_Session\revisao3B1\obj\Debug\revisao3B1.dll
+C:\Users\lays\Desktop\Nova pasta (2)\Nova pasta (2)\comum poo\Revisao_Completo_Session\revisao3B1\obj\Debug\revisao3B1.pdb

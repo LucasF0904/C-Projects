@@ -1,0 +1,40 @@
+H:\visual studio 2013\Projects\prj_systoque\prj_systoque\bin\Debug\prj_systoque.exe.config
+H:\Projects\prj_systoque\prj_systoque\bin\Debug\prj_systoque.exe.config
+H:\Projects\prj_systoque\prj_systoque\obj\Debug\prj_systoque.csprojResolveAssemblyReference.cache
+H:\Projects\prj_systoque\prj_systoque\obj\Debug\prj_systoque.Form1.resources
+H:\Projects\prj_systoque\prj_systoque\obj\Debug\prj_systoque.FRM_CRUD_Vendedor.resources
+H:\Projects\prj_systoque\prj_systoque\obj\Debug\prj_systoque.Properties.Resources.resources
+H:\Projects\prj_systoque\prj_systoque\obj\Debug\prj_systoque.csproj.GenerateResource.Cache
+H:\Projects\prj_systoque\prj_systoque\bin\Debug\prj_systoque.exe
+H:\Projects\prj_systoque\prj_systoque\bin\Debug\prj_systoque.pdb
+H:\Projects\prj_systoque\prj_systoque\bin\Debug\DAL.dll
+H:\Projects\prj_systoque\prj_systoque\bin\Debug\DAL.pdb
+H:\Projects\prj_systoque\prj_systoque\obj\Debug\prj_systoque.exe
+H:\Projects\prj_systoque\prj_systoque\obj\Debug\prj_systoque.pdb
+H:\Projects\prj_systoque\prj_systoque\obj\Debug\prj_systoque.FRM_Venda_Pedidos.resources
+H:\POO\2 Trimestre\prj_systoque\prj_systoque\bin\Debug\prj_systoque.exe.config
+H:\POO\2 Trimestre\prj_systoque\prj_systoque\obj\Debug\prj_systoque.exe
+H:\POO\2 Trimestre\prj_systoque\prj_systoque\obj\Debug\prj_systoque.pdb
+H:\POO\2 Trimestre\prj_systoque\prj_systoque\bin\Debug\prj_systoque.exe
+H:\POO\2 Trimestre\prj_systoque\prj_systoque\bin\Debug\prj_systoque.pdb
+H:\POO\2 Trimestre\prj_systoque\prj_systoque\obj\Debug\prj_systoque.csprojResolveAssemblyReference.cache
+H:\POO\2 Trimestre\prj_systoque\prj_systoque\obj\Debug\prj_systoque.Form1.resources
+H:\POO\2 Trimestre\prj_systoque\prj_systoque\obj\Debug\prj_systoque.FRM_Venda_Pedidos.resources
+H:\POO\2 Trimestre\prj_systoque\prj_systoque\obj\Debug\prj_systoque.FRM_CRUD_Vendedor.resources
+H:\POO\2 Trimestre\prj_systoque\prj_systoque\obj\Debug\prj_systoque.Properties.Resources.resources
+H:\POO\2 Trimestre\prj_systoque\prj_systoque\obj\Debug\prj_systoque.csproj.GenerateResource.Cache
+C:\Users\lays\Documents\PCC-ULTIMA GOTA\Nova pasta (2)\poo lucas\prj_systoque\prj_systoque\bin\Debug\prj_systoque.exe.config
+C:\Users\lays\Documents\PCC-ULTIMA GOTA\Nova pasta (2)\poo lucas\prj_systoque\prj_systoque\obj\Debug\prj_systoque.exe
+C:\Users\lays\Documents\PCC-ULTIMA GOTA\Nova pasta (2)\poo lucas\prj_systoque\prj_systoque\obj\Debug\prj_systoque.pdb
+C:\Users\lays\Documents\PCC-ULTIMA GOTA\Nova pasta (2)\poo lucas\prj_systoque\prj_systoque\bin\Debug\prj_systoque.exe
+C:\Users\lays\Documents\PCC-ULTIMA GOTA\Nova pasta (2)\poo lucas\prj_systoque\prj_systoque\bin\Debug\prj_systoque.pdb
+C:\Users\lays\Documents\PCC-ULTIMA GOTA\Nova pasta (2)\poo lucas\prj_systoque\prj_systoque\bin\Debug\DAL.dll
+C:\Users\lays\Documents\PCC-ULTIMA GOTA\Nova pasta (2)\poo lucas\prj_systoque\prj_systoque\obj\Debug\prj_systoque.csprojResolveAssemblyReference.cache
+C:\Users\lays\Documents\PCC-ULTIMA GOTA\Nova pasta (2)\poo lucas\prj_systoque\prj_systoque\obj\Debug\prj_systoque.Form1.resources
+C:\Users\lays\Documents\PCC-ULTIMA GOTA\Nova pasta (2)\poo lucas\prj_systoque\prj_systoque\obj\Debug\prj_systoque.FRM_Venda_Pedidos.resources
+C:\Users\lays\Documents\PCC-ULTIMA GOTA\Nova pasta (2)\poo lucas\prj_systoque\prj_systoque\obj\Debug\prj_systoque.FRM_CRUD_Vendedor.resources
+C:\Users\lays\Documents\PCC-ULTIMA GOTA\Nova pasta (2)\poo lucas\prj_systoque\prj_systoque\obj\Debug\prj_systoque.Properties.Resources.resources
+C:\Users\lays\Documents\PCC-ULTIMA GOTA\Nova pasta (2)\poo lucas\prj_systoque\prj_systoque\obj\Debug\prj_systoque.csproj.GenerateResource.Cache
+C:\Users\lays\Documents\PCC-ULTIMA GOTA\2015\Nova pasta (2)\poo lucas\prj_systoque\prj_systoque\bin\Debug\prj_systoque.exe.config
+C:\Users\lays\Documents\PCC-ULTIMA GOTA\2015\Nova pasta (2)\poo lucas\prj_systoque\prj_systoque\obj\Debug\prj_systoque.exe
+C:\Users\lays\Documents\PCC-ULTIMA GOTA\2015\Nova pasta (2)\poo lucas\prj_systoque\prj_systoque\obj\Debug\prj_systoque.pdb

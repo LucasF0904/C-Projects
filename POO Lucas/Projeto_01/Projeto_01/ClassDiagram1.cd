@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Projeto_01.Class_Vendedor">
+    <Position X="0.75" Y="0.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AQAhCogAAAAAAIAAAAADgEEAAAAAgAAQAAEAAACAAAA=</HashCode>
+      <FileName>Class_Vendedor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Projeto_01.Class_Venda">
+    <Position X="3.5" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAQgAAAAAABAAAAAEBIBgEAAAAAAAIAAAEAQAACAAAA=</HashCode>
+      <FileName>Class_Venda.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="VENDAS.Class_ItensVenda">
+    <Position X="4.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAAABAAgCAAAAJgEAAAACAAAAAAAAAIACAAAA=</HashCode>
+      <FileName>Class_ItensVenda.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VENDAS.vendedor">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAwAIAAAAAAAAAAAAABgEEAAAAAAAAQAAAAAACAAAA=</HashCode>
+      <FileName>vendedor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VENDAS.Class_Venda">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAxAAAAAQBAAAAQEBIBgEAAAAQAAAAAAAAAIACAAAA=</HashCode>
+      <FileName>venda.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VENDAS.Class_Produto">
+    <Position X="6.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIgAAAAAEAAAwEAAAABgEABgAAAAAAAAAAAAACBgAA=</HashCode>
+      <FileName>produtos.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
